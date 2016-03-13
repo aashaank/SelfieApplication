@@ -11,6 +11,10 @@
 
     <uses-feature android:name="android.hardware.camera2" />
         <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<<<<<<< HEAD
+=======
+        <uses-permission android:name="android.permission.RECORD_AUDIO" />
+>>>>>>> e0c277f7a478f4ec9bbdde34e998751d1eaecaad
         <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
         <activity

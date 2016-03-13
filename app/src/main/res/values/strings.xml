@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">SelfieApplication</string>
     <string name="action_settings">Settings</string>
+<<<<<<< HEAD
     <string name="action_delete">Delete</string>
+=======
+>>>>>>> e0c277f7a478f4ec9bbdde34e998751d1eaecaad
 </resources>

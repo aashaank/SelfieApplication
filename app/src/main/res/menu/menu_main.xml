@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
+=======
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.aashankpratap.selfieapplication.MainActivity">
+>>>>>>> e0c277f7a478f4ec9bbdde34e998751d1eaecaad
     <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:title="@string/action_settings"
+<<<<<<< HEAD
         android:showAsAction="always" />
+=======
+        app:showAsAction="never" />
+>>>>>>> e0c277f7a478f4ec9bbdde34e998751d1eaecaad
 </menu>
